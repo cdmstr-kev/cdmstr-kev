@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kevin</h1>
 
+<p>About Me: From IT Vet to Code Newbie (and loving it!) <br>
+  
+Hey there! I'm Kevin, and I'm currently diving headfirst into the world of software engineering at TripleTen. For over a decade, I've been knee-deep in IT, helping folks at insurance companies, hospitals, and other tech places keep their systems humming as an executive desktop support technician. I even managed to snag an AWS Solutions Architect Associate certification along the way!
+
+Truth be told, I've always loved figuring out how things work and, even more, fixing them when they break. That passion for problem-solving is what got me into IT, and it's what's driving me now to become a software engineer. I'm excited to use those same skills to tackle bigger, more complex challenges – the kind that code can solve. So, while I might be a "newbie" to writing full-blown applications, I'm bringing a ton of real-world IT experience and a serious love for getting things done. Let's build some cool stuff!</p>
+
 **Currently:** 
 Leveling up my coding skills at TripleTen to become a software engineer! 🚀
 
